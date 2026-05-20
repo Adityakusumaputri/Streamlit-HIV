@@ -1,0 +1,135 @@
+﻿No,Nama,Status Pemilik,Jenis Pemilik,Kecamatan,Alamat,Layanan Tes HIV,Layanan PDP,Layanan Tes VL,Layanan Tes EID,Layanan Tes CD4
+1,Balai Besar Kekarantinaan Kesehatan (BBKK) Surabaya Wilker Tanjung Perak,Pemerintah,Kemenkes,Pabean Cantian,"Jl. Perak Timur No. 514-516, Kel. Perak Utara, Kec. Pabean Cantikan, Kota Surabaya 60164 - Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+2,Balai Besar Laboratorium Kesehatan Masyarakat (BB Labkesmas) Surabaya,Pemerintah,Kemenkes,Gubeng,"Jl. Karang Menjangan No. 18, Kel. Airlangga, Kec. Gubeng, Kota Surabaya 60286 - Jawa Timur",Tidak,Tidak,Ya,Tidak,Tidak
+3,Klinik Utama PKBI Jawa Timur,Swasta,Organisasi Non Profit,Wonokromo,"Jl. Indragiri No. 24, Kel. Darmo, Kec. Wonokromo, Kota Surabaya 60241 - Jawa Timur",Ya,Ya,Tidak,Tidak,Tidak
+4,Puskesmas Asemrowo,Pemerintah,Pemda Kab./Kota,Asemrowo,"Jl. Asem Raya 8, Kec. Asemrowo",Ya,Ya,Ya,Tidak,Tidak
+5,Puskesmas Balas Klumprik,Pemerintah,Pemda Kab./Kota,Wiyung,"Jl. Balasklumprik, Kec. Wiyung",Ya,Ya,Tidak,Tidak,Tidak
+6,Puskesmas Balongsari,Pemerintah,Pemda Kab./Kota,Tandes,"Jl. Balongsari Tama, Kec. Tandes",Ya,Ya,Tidak,Tidak,Tidak
+7,Puskesmas Bangkingan,Pemerintah,Pemda Kab./Kota,Lakarsantri,"Jl. Raya Bangkingan, Kec. Lakarsantri",Ya,Ya,Tidak,Tidak,Tidak
+8,Puskesmas Banyu Urip,Pemerintah,Pemda Kab./Kota,Sawahan,"Jl. Banyu Urip Kidul VI/5, Kec. Sawahan",Ya,Ya,Tidak,Tidak,Tidak
+9,Puskesmas Benowo,Pemerintah,Pemda Kab./Kota,Sambikerep,Jl. Raya Benowo Kec. Sambikerep,Ya,Ya,Ya,Tidak,Tidak
+10,Puskesmas Bulak Banteng,Pemerintah,Pemda Kab./Kota,Kenjeran,Kec. Kenjeran,Tidak,Ya,Tidak,Tidak,Tidak
+11,Puskesmas Dr. Soetomo,Pemerintah,Pemda Kab./Kota,Tegalsari,"Jl. Kupang Segunting II/32, Kec. Tegalsari",Ya,Ya,Tidak,Tidak,Tidak
+12,Puskesmas Dukuh Kupang,Pemerintah,Pemda Kab./Kota,Dukuh Pakis,"Jl. Dukuh Kupang XXV /48, Kec. Dukuh Pakis",Ya,Ya,Tidak,Tidak,Tidak
+13,Puskesmas Dupak,Pemerintah,Pemda Kab./Kota,Krembangan,"Jl. Dupak Bangunrejo Gg. Poliklinik 6, Kec. Krembangan",Ya,Ya,Ya,Tidak,Tidak
+14,Puskesmas Gading,Pemerintah,Pemda Kab./Kota,Tambaksari,"Jl. Kapas Lor I/1, Kec. Tambaksari",Ya,Ya,Tidak,Tidak,Tidak
+15,Puskesmas Gayungan,Pemerintah,Pemda Kab./Kota,Gayungan,"Jl. Gayungsari Barat 124, Kec. Gayungan",Ya,Ya,Tidak,Tidak,Tidak
+16,Puskesmas Gundih,Pemerintah,Pemda Kab./Kota,Bubutan,"Jl. Margodadi 36-38, Kec. Bubutan",Ya,Ya,Tidak,Tidak,Tidak
+17,Puskesmas Gunung Anyar,Pemerintah,Pemda Kab./Kota,Gunung Anyar,"Jl. Gunung Anyar Timur 70, Kec. Gunung Anyar",Ya,Ya,Tidak,Tidak,Tidak
+18,Puskesmas Jagir,Pemerintah,Pemda Kab./Kota,Wonokromo,"Jl. Bendul Merisi I, Kec. Wonokromo",Ya,Ya,Ya,Tidak,Tidak
+19,Puskesmas Jemursari,Pemerintah,Pemda Kab./Kota,Wonocolo,"Jl. Jemursari Selatan IV/5, Kec. Wonocolo",Ya,Ya,Tidak,Tidak,Tidak
+20,Puskesmas Jeruk,Pemerintah,Pemda Kab./Kota,Lakarsantri,"Jl. Raya Menganti 277, Kec. Lakarsantri",Ya,Ya,Tidak,Tidak,Tidak
+21,Puskesmas Kalijudan,Pemerintah,Pemda Kab./Kota,Mulyorejo,Kec. Mulyorejo,Ya,Ya,Tidak,Tidak,Tidak
+22,Puskesmas Kalirungkut,Pemerintah,Pemda Kab./Kota,Rungkut,"Jl. Rungkut Puskesmas No. 1, Kec. Rungkut",Ya,Ya,Ya,Tidak,Tidak
+23,Puskesmas Kebonsari,Pemerintah,Pemda Kab./Kota,Jambangan,"Jl. Kebon Sari Manunggal 30 - 31, Kec. Jambangan",Ya,Ya,Ya,Tidak,Tidak
+24,Puskesmas Kedungdoro,Pemerintah,Pemda Kab./Kota,Tegalsari,"Jl. Kaliasin Gg. Pompa No. 79-81, Kec. Tegalsari",Ya,Ya,Tidak,Tidak,Tidak
+25,Puskesmas Kedurus,Pemerintah,Pemda Kab./Kota,Karang Pilang,"Jl. Raya Mastrip No. 46, Kec. Karang Pilang",Ya,Ya,Ya,Tidak,Tidak
+26,Puskesmas Kenjeran,Pemerintah,Pemda Kab./Kota,Kenjeran,"Jl. Tambak Deres, Kec. Kenjeran",Ya,Ya,Tidak,Tidak,Tidak
+27,Puskesmas Keputih,Pemerintah,Pemda Kab./Kota,Sukolilo,"Jl. Keputih Tegal, Kec. Sukolilo",Ya,Ya,Tidak,Tidak,Tidak
+28,Puskesmas Ketabang,Pemerintah,Pemda Kab./Kota,Genteng,"Jl. Taman Surya 1, Kec. Genteng",Ya,Ya,Tidak,Tidak,Tidak
+29,Puskesmas Klampis Ngasem,Pemerintah,Pemda Kab./Kota,Sukolilo,"Jl. Arief Rachman Hakim 99 B, Kec. Sukolilo",Ya,Ya,Tidak,Tidak,Tidak
+30,Puskesmas Krembangan Selatan,Pemerintah,Pemda Kab./Kota,Krembangan,"Jl. Pesapen Selatan 70, Kec. Krembangan",Ya,Ya,Ya,Tidak,Tidak
+31,Puskesmas Lidah Kulon,Pemerintah,Pemda Kab./Kota,Lakarsantri,"Jl. Raya Menganti Lidah Kulon No.5, Kec. Lakarsantri",Ya,Ya,Ya,Tidak,Tidak
+32,Puskesmas Lontar,Pemerintah,Pemda Kab./Kota,Sambikerep,"Jl. Raya Lontar No.26, Kec.Sambikerep",Ya,Ya,Tidak,Tidak,Tidak
+33,Puskesmas Made,Pemerintah,Pemda Kab./Kota,Sambikerep,"Jl. Raya Made, Kec. Sambikerep",Ya,Ya,Tidak,Tidak,Tidak
+34,Puskesmas Manukan Kulon,Pemerintah,Pemda Kab./Kota,Tandes,"Jl. Manukan Dalam Blok.18, Kec. Tandes",Ya,Ya,Tidak,Tidak,Tidak
+35,Puskesmas Medokan Ayu,Pemerintah,Pemda Kab./Kota,Rungkut,"Jl. Medokan Asri Utara V/31, Kec. Rungkut",Ya,Ya,Tidak,Tidak,Tidak
+36,Puskesmas Menur,Pemerintah,Pemda Kab./Kota,Sukolilo,"Jl. Manyar Rejo I/35, Kec. Sukolilo",Ya,Ya,Tidak,Tidak,Tidak
+37,Puskesmas Mojo,Pemerintah,Kemenkes,Gubeng,"Jl. Mojo Klanggru Wetan II/11, Kec. Gubeng",Ya,Ya,Ya,Tidak,Tidak
+38,Puskesmas Morokrembangan,Pemerintah,Pemda Kab./Kota,Krembangan,Kec. Krembangan,Tidak,Ya,Tidak,Tidak,Tidak
+39,Puskesmas Mulyorejo,Pemerintah,Pemda Kab./Kota,Mulyorejo,"Jl. Mulyorejo Utara 201 Blk, Kec. Mulyorejo",Tidak,Ya,Tidak,Tidak,Tidak
+40,Puskesmas Ngagel Rejo,Pemerintah,Pemda Kab./Kota,Wonokromo,"Jl. Ngagel Dadi III / 17, Kec. Wonokromo",Ya,Ya,Tidak,Tidak,Tidak
+41,Puskesmas Pacarkeling,Pemerintah,Pemda Kab./Kota,Tambaksari,"Jl. Jolotundo Baru III/16, Kec. Tambaksari",Ya,Ya,Tidak,Tidak,Tidak
+42,Puskesmas Pakis,Pemerintah,Pemda Kab./Kota,Dukuh Pakis,"Jl. Kembang Kuning Besar, Kec. Dukuh Pakis",Ya,Ya,Tidak,Tidak,Tidak
+43,Puskesmas Pegirian,Pemerintah,Pemda Kab./Kota,Semampir,"Jl. Karang Tembok 39, Kec. Semampir",Ya,Ya,Tidak,Tidak,Tidak
+44,Puskesmas Peneleh,Pemerintah,Pemda Kab./Kota,Genteng,"Jl. Makam Peneleh 35, Kec. Genteng",Ya,Ya,Ya,Tidak,Tidak
+45,Puskesmas Perak Timur,Pemerintah,Pemda Kab./Kota,Pabean Cantian,"Jl. Jakarta No.9, Kec. Pabean Cantian",Ya,Ya,Tidak,Tidak,Tidak
+46,Puskesmas Pucang Sewu,Pemerintah,Pemda Kab./Kota,Gubeng,"Jl. Pucang Anom Timur 72, Kec. Gubeng",Ya,Ya,Tidak,Tidak,Tidak
+47,Puskesmas Putat Jaya,Pemerintah,Pemda Kab./Kota,Sawahan,"Jl. Kupang Gunung V Raya No. 16, Kec. Sawahan",Ya,Ya,Ya,Tidak,Tidak
+48,Puskesmas Rangkah,Pemerintah,Pemda Kab./Kota,Tambaksari,"Jl. Rangkah VII/94, Kec. Tambaksari",Ya,Ya,Tidak,Tidak,Tidak
+49,Puskesmas Sawah Pulo,Pemerintah,Pemda Kab./Kota,Semampir,Jl. Sawah Pulo Lapangan No. 2 Surabaya,Tidak,Ya,Tidak,Tidak,Tidak
+50,Puskesmas Sawahan,Pemerintah,Pemda Kab./Kota,Sawahan,"Jl. Arjuno 119, Kec. Sawahan",Tidak,Ya,Tidak,Tidak,Tidak
+51,Puskesmas Sememi,Pemerintah,Pemda Kab./Kota,Benowo,"Jl. Raya Kedung, Kec. Benowo",Ya,Ya,Ya,Tidak,Tidak
+52,Puskesmas Sidosermo,Pemerintah,Pemda Kab./Kota,Wonocolo,"Jl. Sidosermo Gg. Damri 51, Kec. Wonocolo",Ya,Ya,Tidak,Tidak,Tidak
+53,Puskesmas Sidotopo,Pemerintah,Pemda Kab./Kota,Semampir,"Jl. Sombo II/60, Kec. Semampir",Ya,Ya,Tidak,Tidak,Tidak
+54,Puskesmas Sidotopo Wetan,Pemerintah,Pemda Kab./Kota,Kenjeran,"Jl. Randu 102, Kec. Kenjeran",Ya,Ya,Tidak,Tidak,Tidak
+55,Puskesmas Simolawang,Pemerintah,Pemda Kab./Kota,Simokerto,"Jl. Simolawang II Barat 45 A, Kec. Simokerto",Ya,Ya,Tidak,Tidak,Tidak
+56,Puskesmas Simomulyo,Pemerintah,Pemda Kab./Kota,Sukomanunggal,"Jl. Gumuk Bogo No.1, Kec. Suko Manunggal",Ya,Ya,Tidak,Tidak,Tidak
+57,Puskesmas Siwalankerto,Pemerintah,Pemda Kab./Kota,Wonocolo,"Jl. Siwalankerto, Kec. Wonocolo",Ya,Ya,Tidak,Tidak,Tidak
+58,Puskesmas Tambak Wedi,Pemerintah,Pemda Kab./Kota,Kenjeran,Kec. Kenjeran,Tidak,Ya,Tidak,Tidak,Tidak
+59,Puskesmas Tambakrejo,Pemerintah,Pemda Kab./Kota,Simokerto,"Jl. Ngaglik 87, Kec. Simokerto",Ya,Ya,Tidak,Tidak,Tidak
+60,Puskesmas Tanah Kalikedinding,Pemerintah,Pemda Kab./Kota,Kenjeran,"Jl. Kedung Cowek 226, Kec. Kenjeran",Ya,Ya,Tidak,Tidak,Tidak
+61,Puskesmas Tanjungsari,Pemerintah,Pemda Kab./Kota,Sukomanunggal,"Jl. Tanjung Sari 116, Kec. Suko Manunggal",Ya,Ya,Ya,Tidak,Tidak
+62,Puskesmas Tembok Dukuh,Pemerintah,Pemda Kab./Kota,Bubutan,"Jl. Kalibutuh No. 26, Kec. Bubutan",Ya,Ya,Tidak,Tidak,Tidak
+63,Puskesmas Tenggilis,Pemerintah,Pemda Kab./Kota,Tenggilis Mejoyo,"Jl. Rungkut Mejoyo Selatan IV/P-48, Kec. Tenggilis Mejoyo",Ya,Ya,Tidak,Tidak,Tidak
+64,Puskesmas Wiyung,Pemerintah,Pemda Kab./Kota,Wiyung,"Jl. Wiyung Pasar 20, Kec. Wiyung",Ya,Ya,Tidak,Tidak,Tidak
+65,Puskesmas Wonokromo,Pemerintah,Pemda Kab./Kota,Wonokromo,"Jl. Karang Rejo VI/4, Kec. Wonokromo",Ya,Ya,Ya,Tidak,Tidak
+66,Puskesmas Wonokusumo,Pemerintah,Pemda Kab./Kota,Semampir,"Jl. Wonokusumo Tengah 35, Kec. Semampir",Ya,Ya,Ya,Tidak,Tidak
+67,RS Adi Husada Kapasari,Swasta,Organisasi Non Profit,Asemrowo,Jl. Kapasari No. 97-101 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+68,RS Adi Husada Undaan,Swasta,Organisasi Non Profit,Genteng,Jl. Undaan Wetan 40-44 Sby,Ya,Tidak,Tidak,Tidak,Tidak
+69,RS Al-Irsyad Surabaya,Swasta,Organisasi Non Profit,Asemrowo,Jl. KHM.Mansyur No. 210 - 214 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+70,RS Bhakti Rahayu Surabaya,Swasta,Organisasi Non Profit,Asemrowo,Jl. Ketintang Madya I/16 Surabaya,Ya,Ya,Tidak,Tidak,Tidak
+71,RS Bhayangkara Tk. II HS. Samsoeri Mertojoso,Pemerintah,Polri,Gayungan,"Jl. Ahmad Yani No.116, Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur",Ya,Ya,Tidak,Tidak,Ya
+72,RS Bunda,Swasta,Organisasi Non Profit,Asemrowo,Jl. Raya Kandangan 23-24 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+73,RS Ciputra Surabaya,Swasta,Organisasi Non Profit,Sambikerep,"Jl. West Radial Road CF-6 (Perumahan Citraland), Kel. Made, Kec. Sambikerep, Kota Surabaya 60219 - Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+74,RS Darmo,Swasta,Organisasi Non Profit,Asemrowo,"Jl. Raya Darmo 90,Surabaya",Ya,Tidak,Tidak,Tidak,Tidak
+75,RS Gotong Royong,Swasta,Organisasi Non Profit,Asemrowo,Jl. Medokan Semampir Indah No. 97 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+76,RS Husada Utama Surabaya,Swasta,Organisasi Non Profit,Tambaksari,"Jl. Mayjen Prof. Dr. Moestopo No.31-35, Pacar Keling, Kec. Tambaksari, Kota SBY, Jawa Timur",Ya,Tidak,Tidak,Tidak,Tidak
+77,RS Islam Darus Syifa,Swasta,Organisasi Non Profit,Pakal,"Jl. Benowo No.5, Benowo, Kec. Pakal, Kota SBY, Jawa Timur",Ya,Tidak,Tidak,Tidak,Tidak
+78,RS Islam Surabaya A. Yani,Swasta,Organisasi Non Profit,Wonokromo,"Jl. Achmad Yani No.2-4, Wonokromo, Kec. Wonokromo, Kota SBY, Jawa Timur",Ya,Ya,Tidak,Tidak,Tidak
+79,RS Islam Surabaya Jemursari,Swasta,Organisasi Non Profit,Wonocolo,"Jl. Raya Jemursari No.51-57, Jemur Wonosari, Kec. Wonocolo, Kota SBY, Jawa Timur",Ya,Tidak,Tidak,Tidak,Tidak
+80,RS Jiwa Menur,Pemerintah,Pemda Provinsi,Gubeng,"Jl. Raya Menur No.120, RT.009/RW.01, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur",Ya,Ya,Tidak,Tidak,Tidak
+81,RS Katolik St. Vincentius A Paulo,Swasta,Organisasi Non Profit,Wonokromo,"Jl. Diponegoro No.51, Darmo, Kec. Wonokromo, Kota SBY, Jawa Timur",Ya,Tidak,Tidak,Tidak,Tidak
+82,RS Khusus Gigi dan Mulut FKG Universitas Airlangga (Unair),Pemerintah,Kementerian Non-Kemenkes,Tambaksari,"Jl. Mayjen Prof. Dr. Moestopo No.47, Pacar Kembang, Kec. Tambaksari, Kota SBY, Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+83,RS Khusus Gigi dan Mulut Nala Husada,Swasta,Organisasi Non Profit,Asemrowo,FKG Hang Tuah Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+84,RS Manyar Medical Centre,Swasta,Perusahaan,Mulyorejo,"Jl. Raya Manyar No.9, Manyar Sabrangan, Kec. Mulyorejo, Kota SBY, Jawa Timur",Ya,Tidak,Tidak,Tidak,Tidak
+85,RS Marinir Ewa Pangalila Gunungsari,Pemerintah,TNI,Asemrowo,Jl. Golf No. 1 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+86,RS Mata Masyarakat Jawa Timur,Pemerintah,Pemda Provinsi,Asemrowo,JL. Gayung Kebonsari Timur No 49 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+87,RS Mata Undaan,Swasta,Organisasi Non Profit,Asemrowo,Jl. Undaan Kulon 17-19 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+88,RS Mayapada Surabaya,Swasta,Organisasi Non Profit,Sawahan,"Jl. Mayjen Sungkono No. 20, Kel. Pakis, Kec. Sawahan, Kota Surabaya 60256 - Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+89,RS Mitra Keluarga Kenjeran,Swasta,Perusahaan,Asemrowo,Jl. Kenjeran No. 506 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+90,RS Mitra Keluarga Surabaya,Swasta,Organisasi Non Profit,Sukomanunggal,"Komplek Darmo Satelit 
+Jl. Satelit Indah II, Kel. Tanjungsari, Kec. Sukomanunggal, Kota Surabaya 60187 - Jawa Timur",Ya,Ya,Tidak,Tidak,Tidak
+91,RS Muji Rahayu,Swasta,Organisasi Non Profit,Asemrowo,Jl. Raya Manukan Wetan 68-68 A Sby,Tidak,Tidak,Tidak,Tidak,Tidak
+92,RS National,Swasta,Organisasi Non Profit,Wiyung,"Jl. Boulevard Famili Selatan kav. 1, Surabaya",Tidak,Tidak,Tidak,Tidak,Tidak
+93,RS Onkologi,Swasta,Organisasi Non Profit,Asemrowo,Jl. Arief Rahman Hakim No. 184 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+94,RS Orthopedi dan Traumatologi Surabaya,Swasta,Perusahaan,Asemrowo,Emerald Mansion BLok TX No. 10 Citraland SURABAYA,Ya,Tidak,Tidak,Tidak,Tidak
+95,RS PKU Muhammadiyah Surabaya,Swasta,Organisasi Non Profit,Pabean Cantian,"Jl. KH Mas Mansyur No. 180 - 182, Kel. Nyamplungan, Kec. Pabean Cantikan, Kota Surabaya 60162 - Jawa Timur",Ya,Ya,Tidak,Tidak,Tidak
+96,RS Premier Surabaya,Swasta,Organisasi Non Profit,Sukolilo,"Jl. Nginden Intan Barat No.B, Ngenden Jangkungan, Kec. Sukolilo, Kota SBY, Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+97,RS Primasatya Husada Citra (PHC) Surabaya,Swasta,Organisasi Non Profit,Pabean Cantian,Jl. Prapat Kurung Selatan no 1 Tanjung Perak Surabaya,Ya,Ya,Tidak,Tidak,Tidak
+98,RS Royal Surabaya,Swasta,Organisasi Non Profit,Tenggilis Mejoyo,JL. RUNGKUT INDUSTRI I/1 SURABAYA,Tidak,Tidak,Tidak,Tidak,Tidak
+99,RS Siloam Surabaya,Swasta,Organisasi Non Profit,Gubeng,"Jl. Raya Gubeng No.70, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur",Ya,Tidak,Tidak,Tidak,Tidak
+100,RS Surabaya Medical Service,Swasta,Organisasi Non Profit,Asemrowo,Jl. Kapuas No. 2 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+101,RS Tk. III Brawijaya Surabaya,Pemerintah,TNI,Asemrowo,Jl. Kesatrian No.17 Surabaya,Ya,Ya,Tidak,Tidak,Tidak
+102,RS Universitas Airlangga (Unair),Pemerintah,Kementerian Non-Kemenkes,Mulyorejo,"Kampus C Universitas Airlangga, Mulyorejo, Surabaya",Ya,Ya,Ya,Tidak,Tidak
+103,RS Universitas Surabaya (Ubaya),Swasta,Perusahaan,Tenggilis Mejoyo,"Jl. Raya Panjang Jiwo Permai No. 87, Kel. Panjang Jiwo, Kec. Tenggilis Mejoyo, Kota Surabaya 60299 - Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+104,RS Wijaya Surabaya,Swasta,Organisasi Non Profit,Asemrowo,Jl. Raya Menganti No.398 Wiyung Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+105,RS William Booth Surabaya,Swasta,Organisasi Non Profit,Asemrowo,"Jl. Diponegoro 34, Surabaya",Ya,Tidak,Tidak,Tidak,Tidak
+106,RS Wiyung Sejahtera,Swasta,Organisasi Non Profit,Wiyung,"Jl. Karangan PDAM No. 1-3, Kel. Babatan, Kec. Wiyung, Kota Surabaya 60227 - Jawa Timur",Tidak,Ya,Tidak,Tidak,Tidak
+107,RSAL dr. Oepomo,Pemerintah,TNI,Asemrowo,"Jl. Laksda M.Nazir No.56,Surabaya",Ya,Tidak,Tidak,Tidak,Tidak
+108,RSAL dr. Ramelan,Pemerintah,TNI,Asemrowo,Jl. Gadung No. 1 Surabaya,Ya,Ya,Tidak,Tidak,Ya
+109,RSAU Soemitro Lanud Moeljono,Pemerintah,TNI,Asemrowo,Jl.Serayu No. 17 Surabaya,Ya,Ya,Tidak,Tidak,Tidak
+110,RSIA Adi Guna,Swasta,Perseorangan,Tambaksari,"Jl. Alun-Alun No. 1-3, Kel. Rangkah, Kec. Tambaksari, Kota Surabaya 60135 - Jawa Timur
+",Tidak,Tidak,Tidak,Tidak,Tidak
+111,RSIA Bantuan 05.08.05 Surabaya,Pemerintah,TNI,Asemrowo,Gubeng Pojok No.21 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+112,RSIA Cempaka Putih Permata,Swasta,Perusahaan,Asemrowo,Jl. Jambangan Kebon Agung No.8,Tidak,Tidak,Tidak,Tidak,Tidak
+113,RSIA Ferina,Swasta,Perusahaan,Asemrowo,Jl. Irian Barat No. 7-11 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+114,RSIA Graha Medika,Swasta,Perusahaan,Asemrowo,Graha Sampurna Indah E-3-6-8-10-12-14-16-18-20-22 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+115,RSIA IBI Surabaya,Swasta,Organisasi Non Profit,Asemrowo,Jl. Dupak No. 15A Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+116,RSIA Idaf Husada,Swasta,Organisasi Non Profit,Lakarsantri,"Jl. KO Wisata Bukit Mas II Blok RF No. 10-11 , Kel. Lidah Wetan, Kec. Lakarsantri, Kota Surabaya 60213 - Jawa Timur ",Tidak,Tidak,Tidak,Tidak,Tidak
+117,RSIA Kendangsari Merr,Swasta,Organisasi Non Profit,Asemrowo,Jl. Dr. Ir. H. Soekarno No. 2 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+118,RSIA Kendangsari Surabaya,Swasta,Organisasi Non Profit,Asemrowo,Jl. Raya Kendangsari No. 38 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+119,RSIA Lombok Dua Dua Flores,Swasta,Perusahaan,Wonokromo,"Jl. Flores No.12, Ngagel, Kec. Wonokromo, Kota SBY, Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+120,RSIA Lombok Dua Dua Lontar,Swasta,Perusahaan,Asemrowo,Jl. Lontar No.109 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+121,RSIA Nur Ummi Numbi,Swasta,Perusahaan,Asemrowo,Jl. Manukan Tengah 51 J/ 4-6,Ya,Tidak,Tidak,Tidak,Tidak
+122,RSIA Perdana Medica,Swasta,Perusahaan,Asemrowo,JL Raya Kutisari No. 6 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+123,RSIA Pura Raharja,Swasta,Organisasi Non Profit,Asemrowo,Jl. Pucang Adi No.12 - 14 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+124,RSIA Pusura Tegalsari,Swasta,Organisasi Non Profit,Asemrowo,JL. Tegalsari No.59 Surabaya,Ya,Tidak,Tidak,Tidak,Tidak
+125,RSIA Putri Surabaya,Swasta,Organisasi Non Profit,Asemrowo,Jl. Arief Rahman Hakim No. 122 Surabaya,Tidak,Tidak,Tidak,Tidak,Tidak
+126,RSUD Bhakti Dharma Husada,Pemerintah,Pemda Kab./Kota,Asemrowo,"Jl. Raya Kendung No.115-117, Surabaya",Ya,Ya,Tidak,Tidak,Ya
+127,RSUD dr. Mohamad Soewandhie,Pemerintah,Pemda Kab./Kota,Simokerto,Jl. Tambakrejo No. 45-47 Surabaya,Ya,Ya,Tidak,Tidak,Ya
+128,RSUD dr. Soetomo,Pemerintah,Pemda Provinsi,Asemrowo,"Jalan Mayjen Prof. Moestopo No. 6 - 8 Surabaya, Jawa Timur",Ya,Ya,Ya,Ya,Tidak
+129,RSUD Eka Candrarini,Pemerintah,Pemda Kab./Kota,Rungkut,"Jl. Medokan Asri Tengah No. 2, Kel. Kalirungkut, Kec. Rungkut, Kota Surabaya 60297 - Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
+130,RSUD Haji Surabaya,Pemerintah,Pemda Provinsi,Asemrowo,Jl. Manyar Kertoadi Surabaya,Ya,Ya,Ya,Tidak,Tidak
+131,RSUD Husada Prima,Pemerintah,Pemda Provinsi,Asemrowo,Jl. Karang Tembok No 39 Surabaya,Ya,Ya,Ya,Tidak,Ya
+132,RSUP Surabaya,Pemerintah,Kemenkes,Krembangan,"Jl. Indrapura No. 17, Kel. Kemayoran, Kec. Krembangan, Kota Surabaya 60176 - Jawa Timur",Tidak,Tidak,Tidak,Tidak,Tidak
